@@ -11,7 +11,7 @@ setLoading(true)
 axios('/appData.json').then(res=>{setData(res.data)}).catch(err=>setError(err)).finally(()=>setLoading(false))
 },[])
 
-return {data,error,loading}
+return {data,error,loading,setLoading}
 
 }
 
