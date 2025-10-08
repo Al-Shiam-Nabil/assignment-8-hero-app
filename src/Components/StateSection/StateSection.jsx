@@ -11,7 +11,7 @@ const StateSection = () => {
           <h2 className="text-4xl font-bold mb-10">
             Trusted by Millions, Built for You
           </h2>
-          <div className=" flex justify-evenly items-center flex-wrap gap-10">
+          <div className=" flex justify-evenly items-center flex-wrap flex-col sm:flex-row gap-10">
             <div className="space-y-3">
               <p>Total Downloads</p>
               <h3 className="text-5xl font-bold">29.6M</h3>

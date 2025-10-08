@@ -1,50 +1,40 @@
-import React from 'react';
+import React from "react";
+import downloadIcon from "../../assets/icon-downloads.png";
+import ratingIcon from "../../assets/icon-ratings.png";
+import { Link } from "react-router";
 
-const Card = ({singleData}) => {
-    console.log(singleData)
-    return (
-        <div>
-            
+const Card = ({ singleData }) => {
+  const {id, image, title, downloads, ratingAvg } = singleData;
+  return (
+    <Link to={`/app-details/${id}`}>
+    <div className="bg-white rounded-sm p-4 shadow space-y-2 cursor-pointer hover:scale-105  transition ease-in-out duration-300">
+      <div className=" w-full rounded-lg bg-[#d9d9d9] h-[250px] lg:h-[200px] xl:h-[250px]">
+        <img
+          src={image}
+          alt={title}
+          className="rounded-lg w-full h-full object-cover"
+        />
+      </div>
+      <h3 className="font-medium text-lg">{title}</h3>
+
+      <div className="flex justify-between items-center ">
+        <div className="badge badge-soft badge-primary font-medium py-4 text-[#00D390]">
+          <img
+            src={downloadIcon}
+            alt="icon"
+            className="w-4 h-4 object-contain"
+          />
+          {downloads}
         </div>
-    );
+
+        <div className="badge badge-soft badge-primary text-[#FF8811] font-medium py-4 bg-[#FFF0E1]">
+          <img src={ratingIcon} alt="icon" className="w-4 h-4 object-contain" />
+          {ratingAvg}
+        </div>
+      </div>
+    </div>
+    </Link>
+  );
 };
 
 export default Card;
-
-
-/*
-
-{
-    "image": "https://i.ibb.co.com/d4n2b3th/maik-winnecke-bqwi-Eesse4-U-unsplash.jpg",
-    "title": "SocialVerse",
-    "companyName": "NovaTech Studios",
-    "id": 101,
-    "description": "A modern social media app connecting creators and fans worldwide.",
-    "size": 125,
-    "reviews": 15234,
-    "ratingAvg": 4.4,
-    "downloads": 1200000,
-    "ratings": [
-        {
-            "name": "1 star",
-            "count": 820
-        },
-        {
-            "name": "2 star",
-            "count": 960
-        },
-        {
-            "name": "3 star",
-            "count": 1400
-        },
-        {
-            "name": "4 star",
-            "count": 4200
-        },
-        {
-            "name": "5 star",
-            "count": 8854
-        }
-    ]
-}
-*/

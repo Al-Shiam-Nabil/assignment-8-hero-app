@@ -1,14 +1,14 @@
 [
   {
-    "image": "https://i.ibb.co.com/d4n2b3th/maik-winnecke-bqwi-Eesse4-U-unsplash.jpg",
+    "image": "https://i.ibb.co/d4n2b3th/maik-winnecke-bqwi-Eesse4-U-unsplash.jpg",
     "title": "SocialVerse",
     "companyName": "NovaTech Studios",
     "id": 101,
-    "description": "A modern social media app connecting creators and fans worldwide.",
+    "description": "SocialVerse is a cutting-edge social media platform designed for creators, influencers, and everyday users who want to connect beyond the surface. With its modern design and interactive tools, users can share their stories, host live sessions, and collaborate on projects seamlessly.\n\nBuilt with AI-driven feed algorithms, SocialVerse ensures that your content reaches the right audience. From in-depth analytics to smart recommendations, it’s a perfect space to grow your digital identity and build meaningful communities.",
     "size": 125,
     "reviews": 15234,
     "ratingAvg": 4.4,
-    "downloads": 1200000,
+    "downloads": "1.2M",
     "ratings": [
       { "name": "1 star", "count": 820 },
       { "name": "2 star", "count": 960 },
@@ -18,15 +18,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/MDc35G6h/martin-martz-Yo-Kss-ZBSpw-unsplash.jpg",
+    "image": "https://i.ibb.co/MDc35G6h/martin-martz-Yo-Kss-ZBSpw-unsplash.jpg",
     "title": "FitLife Tracker",
     "companyName": "HealthSync Inc.",
     "id": 102,
-    "description": "Track workouts, meals, and goals with this all-in-one fitness app.",
+    "description": "FitLife Tracker helps users stay on top of their health goals by tracking workouts, diet, hydration, and sleep all in one place. The app uses advanced analytics to provide personalized insights based on your daily habits.\n\nWhether you’re a gym enthusiast or a beginner, FitLife adapts to your fitness level, offering progress tracking, reminders, and AI-based recommendations to keep you motivated every step of the way.",
     "size": 98,
     "reviews": 8321,
     "ratingAvg": 4.6,
-    "downloads": 890000,
+    "downloads": "890K",
     "ratings": [
       { "name": "1 star", "count": 310 },
       { "name": "2 star", "count": 480 },
@@ -36,15 +36,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/CKbj0DbX/andrei-castanha-Y6-Zt7-An-Bl-PY-unsplash-1.jpg",
+    "image": "https://i.ibb.co/CKbj0DbX/andrei-castanha-Y6-Zt7-An-Bl-PY-unsplash-1.jpg",
     "title": "ShopGenie",
     "companyName": "UrbanSoft Ltd.",
     "id": 103,
-    "description": "Personalized shopping assistant with AI-driven recommendations.",
+    "description": "ShopGenie is your personal shopping assistant powered by AI. It understands your taste, style, and budget to recommend the perfect products across fashion, electronics, and lifestyle. The app helps users discover trending deals and track price drops effortlessly.\n\nWith a seamless interface and secure payment integration, ShopGenie transforms online shopping into a personalized, enjoyable, and smart experience.",
     "size": 75,
     "reviews": 12678,
     "ratingAvg": 4.2,
-    "downloads": 2300000,
+    "downloads": "2.3M",
     "ratings": [
       { "name": "1 star", "count": 1400 },
       { "name": "2 star", "count": 1700 },
@@ -54,15 +54,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/CKbj0DbX/andrei-castanha-Y6-Zt7-An-Bl-PY-unsplash-1.jpg",
+    "image": "https://i.ibb.co/CKbj0DbX/andrei-castanha-Y6-Zt7-An-Bl-PY-unsplash-1.jpg",
     "title": "Gamester Hub",
     "companyName": "PixelStorm Games",
     "id": 104,
-    "description": "Discover, share, and play your favorite indie games in one place.",
+    "description": "Gamester Hub brings the global gaming community together. Discover new indie titles, watch live gameplay, and share your achievements all in one app. It’s designed for gamers who love to connect, compete, and celebrate victories together.\n\nFrom leaderboards to in-game chat and tournaments, Gamester Hub delivers a complete social gaming experience that keeps you hooked and entertained.",
     "size": 142,
     "reviews": 6543,
     "ratingAvg": 4.8,
-    "downloads": 310000,
+    "downloads": "310K",
     "ratings": [
       { "name": "1 star", "count": 120 },
       { "name": "2 star", "count": 190 },
@@ -72,15 +72,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/Pvndxztw/shubham-dhage-u-QWVNy-K3n-OU-unsplash.jpg",
+    "image": "https://i.ibb.co/Pvndxztw/shubham-dhage-u-QWVNy-K3n-OU-unsplash.jpg",
     "title": "LearnX Academy",
     "companyName": "EduSmart Technologies",
     "id": 105,
-    "description": "Interactive online learning platform with live classes and quizzes.",
+    "description": "LearnX Academy revolutionizes online education with live classes, interactive quizzes, and real-time teacher feedback. Whether you’re learning coding, design, or science, LearnX adapts to your pace.\n\nThe platform integrates gamification to keep learning fun and engaging, helping students track progress, earn badges, and master skills for real-world success.",
     "size": 180,
     "reviews": 11320,
     "ratingAvg": 4.7,
-    "downloads": 780000,
+    "downloads": "780K",
     "ratings": [
       { "name": "1 star", "count": 410 },
       { "name": "2 star", "count": 520 },
@@ -90,15 +90,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/MkXHzPgW/silvio-kundt-p-OZGBVICx-Dc-unsplash.jpg",
+    "image": "https://i.ibb.co/MkXHzPgW/silvio-kundt-p-OZGBVICx-Dc-unsplash.jpg",
     "title": "TravelMate",
     "companyName": "GlobeTrek Corp.",
     "id": 106,
-    "description": "Plan your trips, book hotels, and explore new destinations easily.",
+    "description": "TravelMate is your perfect trip companion. From booking hotels and flights to discovering local attractions, it helps you plan every detail effortlessly.\n\nWith AI recommendations and real-time travel alerts, TravelMate ensures your journey is smooth and unforgettable. It’s like having a personal travel assistant in your pocket.",
     "size": 130,
     "reviews": 9345,
     "ratingAvg": 4.3,
-    "downloads": 1500000,
+    "downloads": "1.5M",
     "ratings": [
       { "name": "1 star", "count": 700 },
       { "name": "2 star", "count": 890 },
@@ -108,15 +108,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/xqMfT6dH/woliul-hasan-bs-NW8-WTPP3-M-unsplash.jpg",
+    "image": "https://i.ibb.co/xqMfT6dH/woliul-hasan-bs-NW8-WTPP3-M-unsplash.jpg",
     "title": "SoundWave Player",
     "companyName": "AudioNova Labs",
     "id": 107,
-    "description": "Stream and download high-quality music with personalized playlists.",
+    "description": "SoundWave Player lets you stream, download, and organize high-quality music on the go. Discover trending artists, create playlists, and enjoy seamless playback with zero interruptions.\n\nIt also features smart EQ settings, lyrics sync, and offline listening—making it a must-have app for every music lover.",
     "size": 95,
     "reviews": 17423,
     "ratingAvg": 4.5,
-    "downloads": 5600000,
+    "downloads": "5.6M",
     "ratings": [
       { "name": "1 star", "count": 950 },
       { "name": "2 star", "count": 1300 },
@@ -126,15 +126,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/Lhz4gzW7/marcel-strauss-yn-Xy-ESA6-Fdg-unsplash.jpg",
+    "image": "https://i.ibb.co/Lhz4gzW7/marcel-strauss-yn-Xy-ESA6-Fdg-unsplash.jpg",
     "title": "TaskHero",
     "companyName": "NextStep Apps",
     "id": 108,
-    "description": "Boost your productivity with smart task tracking and reminders.",
+    "description": "TaskHero boosts your productivity through intelligent task tracking and reminder systems. You can set goals, manage routines, and track progress visually.\n\nWith motivational badges, smart scheduling, and voice input, TaskHero turns boring to-do lists into exciting challenges for better daily performance.",
     "size": 70,
     "reviews": 6420,
     "ratingAvg": 4.6,
-    "downloads": 950000,
+    "downloads": "950K",
     "ratings": [
       { "name": "1 star", "count": 300 },
       { "name": "2 star", "count": 440 },
@@ -144,15 +144,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/yccHxCFv/alexander-shatov-Cys3-W7-MXDU-unsplash.jpg",
+    "image": "https://i.ibb.co/yccHxCFv/alexander-shatov-Cys3-W7-MXDU-unsplash.jpg",
     "title": "Foodify",
     "companyName": "MealBox Digital",
     "id": 109,
-    "description": "Order food from top restaurants with real-time delivery tracking.",
+    "description": "Foodify connects you to top-rated restaurants in your area. Order your favorite meals, track deliveries live, and enjoy exclusive discounts.\n\nThe app’s intuitive interface and real-time notifications make it easy to satisfy cravings anytime, anywhere. Whether it’s pizza or sushi, Foodify brings it to your door fast.",
     "size": 110,
     "reviews": 20156,
     "ratingAvg": 4.1,
-    "downloads": 4300000,
+    "downloads": "4.3M",
     "ratings": [
       { "name": "1 star", "count": 2300 },
       { "name": "2 star", "count": 2600 },
@@ -162,15 +162,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/b56mPLSm/mariia-shalabaieva-V02us-4r-NE8-unsplash.jpg",
+    "image": "https://i.ibb.co/b56mPLSm/mariia-shalabaieva-V02us-4r-NE8-unsplash.jpg",
     "title": "MediCare Online",
     "companyName": "HealthBridge Pvt. Ltd.",
     "id": 110,
-    "description": "Consult with doctors, order medicines, and track your prescriptions.",
+    "description": "MediCare Online makes healthcare accessible at your fingertips. Book appointments, consult doctors via video, and order prescribed medicines easily.\n\nThe app also maintains your medical records securely and provides timely health reminders, making it an essential companion for everyday wellness.",
     "size": 165,
     "reviews": 9870,
     "ratingAvg": 4.5,
-    "downloads": 1250000,
+    "downloads": "1.2M",
     "ratings": [
       { "name": "1 star", "count": 540 },
       { "name": "2 star", "count": 700 },
@@ -180,15 +180,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/39mrC317/mariia-shalabaieva-Jk-Zg8c61-Bo-U-unsplash.jpg",
+    "image": "https://i.ibb.co/39mrC317/mariia-shalabaieva-Jk-Zg8c61-Bo-U-unsplash.jpg",
     "title": "FinTrack",
     "companyName": "MoneySmart Labs",
     "id": 111,
-    "description": "Manage your personal finances and investments in one place.",
+    "description": "FinTrack helps users manage income, expenses, and investments all in one intuitive dashboard. Track your spending habits and set monthly savings goals.\n\nWith data visualization, secure syncing, and automatic report generation, FinTrack simplifies financial management for both beginners and professionals.",
     "size": 88,
     "reviews": 7560,
     "ratingAvg": 4.7,
-    "downloads": 980000,
+    "downloads": "980K",
     "ratings": [
       { "name": "1 star", "count": 250 },
       { "name": "2 star", "count": 310 },
@@ -198,15 +198,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/vxKvNTbp/eyestetix-studio-p-Zud-Vp-chc-Y-unsplash.jpg",
+    "image": "https://i.ibb.co/vxKvNTbp/eyestetix-studio-p-Zud-Vp-chc-Y-unsplash.jpg",
     "title": "ChatPlus Messenger",
     "companyName": "Talkify Corp.",
     "id": 112,
-    "description": "Secure and fast messaging app with voice and video call support.",
+    "description": "ChatPlus Messenger offers secure, high-speed communication with end-to-end encryption. It supports voice, video, and group chats with no lag.\n\nIts minimal design and smooth UI make chatting, calling, and file sharing effortless, ensuring privacy and performance for all users.",
     "size": 115,
     "reviews": 24890,
     "ratingAvg": 4.3,
-    "downloads": 7600000,
+    "downloads": "7.6M",
     "ratings": [
       { "name": "1 star", "count": 1900 },
       { "name": "2 star", "count": 2300 },
@@ -216,15 +216,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/m52MDWry/mariia-shalabaieva-Kt-TRm-Zh-PRjs-unsplash.jpg",
+    "image": "https://i.ibb.co/m52MDWry/mariia-shalabaieva-Kt-TRm-Zh-PRjs-unsplash.jpg",
     "title": "Weatherly Pro",
     "companyName": "SkyCast Systems",
     "id": 113,
-    "description": "Accurate forecasts, radar maps, and live weather alerts worldwide.",
+    "description": "Weatherly Pro delivers accurate forecasts, radar maps, and storm alerts in real-time. It uses satellite data to ensure minute-by-minute precision.\n\nWith an elegant UI and customizable widgets, you’ll always stay informed about weather conditions wherever you go.",
     "size": 90,
     "reviews": 6210,
     "ratingAvg": 4.4,
-    "downloads": 2100000,
+    "downloads": "2.1M",
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 510 },
@@ -234,15 +234,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/6cWjPFFM/dima-solomin-mr26t-Qg-HGmc-unsplash.jpg",
+    "image": "https://i.ibb.co/6cWjPFFM/dima-solomin-mr26t-Qg-HGmc-unsplash.jpg",
     "title": "Readify",
     "companyName": "BookVerse Inc.",
     "id": 114,
-    "description": "Read and listen to thousands of books across all genres.",
+    "description": "Readify gives book lovers access to thousands of titles across genres. Whether you prefer ebooks or audiobooks, Readify delivers a seamless experience.\n\nYou can highlight, bookmark, and sync progress across devices—making reading convenient anytime, anywhere.",
     "size": 120,
     "reviews": 8740,
     "ratingAvg": 4.8,
-    "downloads": 3400000,
+    "downloads": "3.4M",
     "ratings": [
       { "name": "1 star", "count": 310 },
       { "name": "2 star", "count": 450 },
@@ -252,15 +252,15 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/qY6YgP5h/ilgmyzin-9q-LYZ-y25pg-unsplash.jpg",
+    "image": "https://i.ibb.co/qY6YgP5h/ilgmyzin-9q-LYZ-y25pg-unsplash.jpg",
     "title": "CookMate Recipes",
     "companyName": "TastyLab Studios",
     "id": 115,
-    "description": "Discover, save, and share thousands of delicious recipes easily.",
+    "description": "CookMate Recipes brings a world of cooking inspiration to your kitchen. Browse thousands of recipes, follow step-by-step guides, and create your own collections.\n\nFrom healthy breakfasts to gourmet dinners, CookMate turns cooking into a creative and fun experience for everyone.",
     "size": 105,
     "reviews": 7350,
     "ratingAvg": 4.6,
-    "downloads": 1550000,
+    "downloads": "1.5M",
     "ratings": [
       { "name": "1 star", "count": 380 },
       { "name": "2 star", "count": 520 },

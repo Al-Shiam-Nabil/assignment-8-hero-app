@@ -3,17 +3,12 @@ import { useEffect, useState } from "react"
 
 const useLoadData=()=>{
 const [data,setData]=useState([]);
-const [error,setError]=useState('')
+const [error,setError]=useState(null)
 const [loading,setLoading]=useState(true)
 
 useEffect(()=>{
-    try {
-axios('/appData.json').then(res=>setData(res.data))
-} catch (error) {
-    setError(error)
-}finally{
-    setLoading(false)
-}
+setLoading(true)
+axios('/appData.json').then(res=>{setData(res.data)}).catch(err=>setError(err)).finally(()=>setLoading(false))
 },[])
 
 return {data,error,loading}

@@ -13,7 +13,7 @@ const Home = () => {
        
               <Banner></Banner>
               <StateSection></StateSection>
-              <Cards homePageData={homePageData}></Cards>
+              <Cards homePageData={homePageData} loading={loading}></Cards>
         
         </div>
     );

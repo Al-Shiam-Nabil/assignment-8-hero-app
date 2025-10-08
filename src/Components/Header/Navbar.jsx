@@ -8,7 +8,7 @@ const Navbar = () => {
 
     const navLinks=<>
     <li className='hover:text-[#632EE3]'><NavLink to="/" >Home</NavLink></li>
-    <li className='hover:text-[#632EE3]'><NavLink to="/apps">Apps</NavLink></li>
+    <li className='hover:text-[#632EE3]'><NavLink to="/all-apps">Apps</NavLink></li>
     <li className='hover:text-[#632EE3]'><NavLink to="/installedApps">Installation</NavLink></li>
     </>
 
