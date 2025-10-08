@@ -21,43 +21,43 @@ const Footer = () => {
           <div className="space-y-3  md:col-span-1 lg:col-span-2">
             <h3 className="text-white text-lg font-medium">Company</h3>
             <ul className="space-y-2">
-              <li>About Us</li>
-              <li>Our Mission</li>
-              <li>Contact Saled</li>
+              <li className="hover:underline cursor-pointer">About Us</li>
+              <li className="hover:underline cursor-pointer">Our Mission</li>
+              <li className="hover:underline cursor-pointer">Contact Saled</li>
             </ul>
           </div>
 
           <div className="space-y-3 md:col-span-1 lg:col-span-2">
             <h3 className="text-white text-lg font-medium">Services</h3>
             <ul className="space-y-2">
-              <li>Products & Services</li>
-              <li>Customer Stories</li>
-              <li>Download Apps</li>
+              <li className="hover:underline cursor-pointer">Products & Services</li>
+              <li className="hover:underline cursor-pointer">Customer Stories</li>
+              <li className="hover:underline cursor-pointer">Download Apps</li>
             </ul>
           </div>
 
           <div className="space-y-3 md:col-span-1 lg:col-span-2">
             <h3 className="text-white text-lg font-medium">Information</h3>
             <ul className="space-y-2">
-              <li>Privacy Policy</li>
-              <li>Terms & Conditions</li>
-              <li>Join Us</li>
+              <li className="hover:underline cursor-pointer">Privacy Policy</li>
+              <li className="hover:underline cursor-pointer">Terms & Conditions</li>
+              <li className="hover:underline cursor-pointer">Join Us</li>
             </ul>
           </div>
 
           <div className=" space-y-3 md:col-span-1 lg:col-span-2">
             <h3 className="text-white text-lg font-medium">Social Links</h3>
             <ul className="space-y-2">
-              <li className="flex items-center gap-2">
+              <li className="flex items-center gap-2 hover:underline cursor-pointer">
                 <FaSquareXTwitter /> Twitter
               </li>
-              <li className="flex items-center gap-2">
+              <li className="flex items-center gap-2 hover:underline cursor-pointer">
                 <ImLinkedin />LinkeDin
               </li>
-              <li className="flex items-center gap-2">
+              <li className="flex items-center gap-2 hover:underline cursor-pointer">
                 <FaFacebookSquare /> Facebook
               </li>
-              <li className="flex items-center gap-2">
+              <li className="flex items-center gap-2 hover:underline cursor-pointer">
                 <MdEmail />
                 hero.io@.gmail.com
               </li>

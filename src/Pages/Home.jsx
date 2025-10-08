@@ -1,12 +1,15 @@
 import React from 'react';
-import Container from '../Components/Container/Container';
+
+import Banner from '../Components/Banner/Banner';
+import StateSection from '../Components/StateSection/StateSection';
 
 const Home = () => {
     return (
         <div>
-            <Container>
-                Alhamdulillah home
-            </Container>
+       
+              <Banner></Banner>
+              <StateSection></StateSection>
+        
         </div>
     );
 };

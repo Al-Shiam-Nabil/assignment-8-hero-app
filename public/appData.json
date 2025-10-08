@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://i.ibb.co.com/d4n2b3th/maik-winnecke-bqwi-Eesse4-U-unsplash.jpg",
+    "title": "SocialVerse",
+    "companyName": "NovaTech Studios",
+    "id": 101,
+    "description": "A modern social media app connecting creators and fans worldwide.",
+    "size": 125,
+    "reviews": 15234,
+    "ratingAvg": 4.4,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 820 },
+      { "name": "2 star", "count": 960 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 8854 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MDc35G6h/martin-martz-Yo-Kss-ZBSpw-unsplash.jpg",
+    "title": "FitLife Tracker",
+    "companyName": "HealthSync Inc.",
+    "id": 102,
+    "description": "Track workouts, meals, and goals with this all-in-one fitness app.",
+    "size": 98,
+    "reviews": 8321,
+    "ratingAvg": 4.6,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 5400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/CKbj0DbX/andrei-castanha-Y6-Zt7-An-Bl-PY-unsplash-1.jpg",
+    "title": "ShopGenie",
+    "companyName": "UrbanSoft Ltd.",
+    "id": 103,
+    "description": "Personalized shopping assistant with AI-driven recommendations.",
+    "size": 75,
+    "reviews": 12678,
+    "ratingAvg": 4.2,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 1400 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 3278 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/CKbj0DbX/andrei-castanha-Y6-Zt7-An-Bl-PY-unsplash-1.jpg",
+    "title": "Gamester Hub",
+    "companyName": "PixelStorm Games",
+    "id": 104,
+    "description": "Discover, share, and play your favorite indie games in one place.",
+    "size": 142,
+    "reviews": 6543,
+    "ratingAvg": 4.8,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 1420 },
+      { "name": "5 star", "count": 4463 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Pvndxztw/shubham-dhage-u-QWVNy-K3n-OU-unsplash.jpg",
+    "title": "LearnX Academy",
+    "companyName": "EduSmart Technologies",
+    "id": 105,
+    "description": "Interactive online learning platform with live classes and quizzes.",
+    "size": 180,
+    "reviews": 11320,
+    "ratingAvg": 4.7,
+    "downloads": 780000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 730 },
+      { "name": "4 star", "count": 2840 },
+      { "name": "5 star", "count": 6820 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MkXHzPgW/silvio-kundt-p-OZGBVICx-Dc-unsplash.jpg",
+    "title": "TravelMate",
+    "companyName": "GlobeTrek Corp.",
+    "id": 106,
+    "description": "Plan your trips, book hotels, and explore new destinations easily.",
+    "size": 130,
+    "reviews": 9345,
+    "ratingAvg": 4.3,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 890 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3655 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xqMfT6dH/woliul-hasan-bs-NW8-WTPP3-M-unsplash.jpg",
+    "title": "SoundWave Player",
+    "companyName": "AudioNova Labs",
+    "id": 107,
+    "description": "Stream and download high-quality music with personalized playlists.",
+    "size": 95,
+    "reviews": 17423,
+    "ratingAvg": 4.5,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 950 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 5400 },
+      { "name": "5 star", "count": 9873 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Lhz4gzW7/marcel-strauss-yn-Xy-ESA6-Fdg-unsplash.jpg",
+    "title": "TaskHero",
+    "companyName": "NextStep Apps",
+    "id": 108,
+    "description": "Boost your productivity with smart task tracking and reminders.",
+    "size": 70,
+    "reviews": 6420,
+    "ratingAvg": 4.6,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 440 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/yccHxCFv/alexander-shatov-Cys3-W7-MXDU-unsplash.jpg",
+    "title": "Foodify",
+    "companyName": "MealBox Digital",
+    "id": 109,
+    "description": "Order food from top restaurants with real-time delivery tracking.",
+    "size": 110,
+    "reviews": 20156,
+    "ratingAvg": 4.1,
+    "downloads": 4300000,
+    "ratings": [
+      { "name": "1 star", "count": 2300 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 5656 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/b56mPLSm/mariia-shalabaieva-V02us-4r-NE8-unsplash.jpg",
+    "title": "MediCare Online",
+    "companyName": "HealthBridge Pvt. Ltd.",
+    "id": 110,
+    "description": "Consult with doctors, order medicines, and track your prescriptions.",
+    "size": 165,
+    "reviews": 9870,
+    "ratingAvg": 4.5,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 540 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 5330 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/39mrC317/mariia-shalabaieva-Jk-Zg8c61-Bo-U-unsplash.jpg",
+    "title": "FinTrack",
+    "companyName": "MoneySmart Labs",
+    "id": 111,
+    "description": "Manage your personal finances and investments in one place.",
+    "size": 88,
+    "reviews": 7560,
+    "ratingAvg": 4.7,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 460 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 4640 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vxKvNTbp/eyestetix-studio-p-Zud-Vp-chc-Y-unsplash.jpg",
+    "title": "ChatPlus Messenger",
+    "companyName": "Talkify Corp.",
+    "id": 112,
+    "description": "Secure and fast messaging app with voice and video call support.",
+    "size": 115,
+    "reviews": 24890,
+    "ratingAvg": 4.3,
+    "downloads": 7600000,
+    "ratings": [
+      { "name": "1 star", "count": 1900 },
+      { "name": "2 star", "count": 2300 },
+      { "name": "3 star", "count": 4100 },
+      { "name": "4 star", "count": 7100 },
+      { "name": "5 star", "count": 9490 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/m52MDWry/mariia-shalabaieva-Kt-TRm-Zh-PRjs-unsplash.jpg",
+    "title": "Weatherly Pro",
+    "companyName": "SkyCast Systems",
+    "id": 113,
+    "description": "Accurate forecasts, radar maps, and live weather alerts worldwide.",
+    "size": 90,
+    "reviews": 6210,
+    "ratingAvg": 4.4,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 830 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2370 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6cWjPFFM/dima-solomin-mr26t-Qg-HGmc-unsplash.jpg",
+    "title": "Readify",
+    "companyName": "BookVerse Inc.",
+    "id": 114,
+    "description": "Read and listen to thousands of books across all genres.",
+    "size": 120,
+    "reviews": 8740,
+    "ratingAvg": 4.8,
+    "downloads": 3400000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 710 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 5270 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qY6YgP5h/ilgmyzin-9q-LYZ-y25pg-unsplash.jpg",
+    "title": "CookMate Recipes",
+    "companyName": "TastyLab Studios",
+    "id": 115,
+    "description": "Discover, save, and share thousands of delicious recipes easily.",
+    "size": 105,
+    "reviews": 7350,
+    "ratingAvg": 4.6,
+    "downloads": 1550000,
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3570 }
+    ]
+  }
+]
