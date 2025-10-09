@@ -8,10 +8,11 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
+import CardError from "../../Pages/Error/CardError";
 
 const Rechart = ({ findData }) => {
   if (!findData) {
-    return;
+    return <CardError></CardError>;
   }
   const { ratings } = findData;
 

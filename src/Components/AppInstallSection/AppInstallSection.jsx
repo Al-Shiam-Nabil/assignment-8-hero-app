@@ -3,12 +3,24 @@ import downloadIcon from "../../assets/icon-downloads.png";
 import ratingIcon from "../../assets/icon-ratings.png";
 import reviewIcon from "../../assets/icon-review.png";
 import CardError from "../../Pages/Error/CardError";
-const AppInstallSection = ({ findData }) => {
+
+import Swal from 'sweetalert2'
+import withReactContent from 'sweetalert2-react-content'
+
+const MySwal = withReactContent(Swal)
+
+const AppInstallSection = ({ findData ,installed,setInstalled}) => {
   if (!findData) {
-    return <CardError></CardError>;
+    return null;
   }
   const { image, title, companyName, reviews, ratingAvg, downloads, size } =
     findData;
+
+    const handleInstall=()=>{
+        setInstalled(true)
+        MySwal.fire(`${title} - successfully installed.`);
+
+    }
 
   return (
     <div className="flex flex-col justify-center items-center md:items-start md:justify-start md:flex-row gap-8 w-full border-b-2 border-gray-200 pb-8 mt-20 mb-10">
@@ -60,8 +72,8 @@ const AppInstallSection = ({ findData }) => {
           </div>
         </div>
 
-        <button className="btn btn-primary max-w-[200px] bg-[#00D390] border-none shadow-none text-white hover:bg-[#632EE3]">
-          Install Now ({size} MB)
+        <button onClick={handleInstall} disabled={installed} className={` btn btn-primary max-w-[200px] bg-[#00D390] border-none shadow-none text-white hover:bg-[#632EE3]`}>
+          {installed ? 'Installed' : `Install Now (${size} MB)`}
         </button>
       </div>
     </div>

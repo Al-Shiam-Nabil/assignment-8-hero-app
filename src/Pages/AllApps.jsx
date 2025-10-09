@@ -13,9 +13,11 @@ const AllApps = () => {
 
   const trim = inputField.trim().toLowerCase();
 
-  const filteredData = trim
+   const filteredData = trim
     ? data.filter((e) => e.title.trim().toLowerCase().includes(trim))
     : data;
+
+
 
 
 
@@ -66,7 +68,9 @@ const AllApps = () => {
           </div>
         </section>
 
-        {loading ? (
+     
+
+     {loading ? (
           <CardError></CardError>
         ) : filteredData.length === 0 ? (
           <NoAppsFound setInputField={setInputField} ></NoAppsFound>

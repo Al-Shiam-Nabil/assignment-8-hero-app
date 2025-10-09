@@ -4,11 +4,13 @@ import Root from "../Layouts/Root/Root";
 import Home from "../Pages/Home";
 import AllApps from "../Pages/AllApps";
 import AppDetails from "../Pages/AppDetails";
+import ErrorPage from "../Pages/Error/ErrorPage";
+
 
 export const router=createBrowserRouter([
   {
     path:"/",
-    errorElement:<h2>Error page</h2>,
+    errorElement:<ErrorPage></ErrorPage>,
    Component:Root,
    children:[
     {
@@ -21,6 +23,7 @@ export const router=createBrowserRouter([
     },
     {
       path:"app-details/:id",
+    
       Component:AppDetails
     }
    ]
