@@ -11,7 +11,7 @@ const AppInstallSection = ({ findData }) => {
     findData;
 
   return (
-    <div className="flex flex-col justify-center items-center md:items-start md:justify-start md:flex-row gap-8 w-full border-b-2 border-gray-200 pb-8 my-20">
+    <div className="flex flex-col justify-center items-center md:items-start md:justify-start md:flex-row gap-8 w-full border-b-2 border-gray-200 pb-8 mt-20 mb-10">
       <div className=" md:h-[280px] md:w-[280px] h-[250px] w-[250px]">
         <img
           src={image}
