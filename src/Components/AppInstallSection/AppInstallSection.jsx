@@ -26,6 +26,16 @@ const AppInstallSection = ({
     setInstalledApp([...installedApp, id]);
   };
 
+    let formatedDownloads = downloads;
+
+  if (downloads >= 1000 && downloads < 1000000) {
+    const newDownloads = downloads / 1000;
+    formatedDownloads = newDownloads.toFixed(1) + "K";
+  } else if (downloads >= 1000000) {
+    const newDownloads = downloads / 1000000;
+    formatedDownloads = newDownloads.toFixed(1) + "M";
+  }
+
   return (
     <div className="flex flex-col justify-center items-center md:items-start md:justify-start md:flex-row gap-8 w-full border-b-2 border-gray-200 pb-8 mt-20 mb-10">
       <div className=" md:h-[280px] md:w-[280px] h-[250px] w-[250px]">
@@ -53,7 +63,7 @@ const AppInstallSection = ({
             />
             <p className="text-gray-500">Downloads</p>
             <h3 className="text-2xl sm:text-3xl md:text-2xl lg:text-3xl  text-gray-700 font-bold">
-              {downloads}
+              {formatedDownloads}
             </h3>
           </div>
 
