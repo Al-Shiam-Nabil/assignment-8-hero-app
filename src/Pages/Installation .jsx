@@ -47,7 +47,7 @@ const Installation = () => {
             className="select w-[250px]"
           >
             <option value="none">None</option>
-            <option value="desc">High to Low</option>
+            <option value="dsc">High to Low</option>
             <option value="asc">Low to High</option>
           </select>
         </div>
