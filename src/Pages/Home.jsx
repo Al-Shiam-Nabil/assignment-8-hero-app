@@ -6,7 +6,7 @@ import useLoadData from '../Hooks/useLoadData';
 import Cards from '../Components/Cards/Cards';
 
 const Home = () => {
-    const {data,error,loading}=useLoadData()
+    const {data,loading}=useLoadData()
     const homePageData=(data.slice(0,8))
     return (
         <div>

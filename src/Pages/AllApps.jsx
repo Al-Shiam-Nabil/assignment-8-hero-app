@@ -7,26 +7,21 @@ import CardError from "./Error/CardError";
 import NoAppsFound from "./Error/NoAppsFound";
 
 const AllApps = () => {
-  const { data, error, setError, loading, setLoading } = useLoadData();
+  const { data, loading } = useLoadData();
 
   const [inputField, setInputField] = useState("");
 
   const trim = inputField.trim().toLowerCase();
 
-   const filteredData = trim
+  const filteredData = trim
     ? data.filter((e) => e.title.trim().toLowerCase().includes(trim))
     : data;
-
-
-
-
-
 
   return (
     <Container>
       <div>
         <section className="text-center mt-20 mb-10 space-y-3">
-          <h2 className="text-4xl font-semibold">Our All Applications</h2>
+          <h2 className="text-3xl sm:text-4xl font-semibold">Our All Applications</h2>
           <p className="text-gray-500">
             Explore All Apps on the Market developed by us. We code for Millions
           </p>
@@ -68,12 +63,10 @@ const AllApps = () => {
           </div>
         </section>
 
-     
-
-     {loading ? (
+        {loading ? (
           <CardError></CardError>
         ) : filteredData.length === 0 ? (
-          <NoAppsFound setInputField={setInputField} ></NoAppsFound>
+          <NoAppsFound setInputField={setInputField}></NoAppsFound>
         ) : (
           <AllCards data={filteredData} loading={loading}></AllCards>
         )}

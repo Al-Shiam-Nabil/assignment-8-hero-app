@@ -6,6 +6,7 @@ import Container from "../Components/Container/Container";
 import Rechart from "../Components/Rechart/Rechart";
 import CardError from "./Error/CardError";
 import ErrorDetailsPage from "./Error/ErrorDetailsPage";
+import { setLocalData } from "../Utilities/LocalStorage/LocalStorage";
 
 const AppDetails = () => {
     const [installed,setInstalled]=useState(false)
@@ -30,7 +31,7 @@ const AppDetails = () => {
   return (
     <div>
       <Container>
-        <AppInstallSection installed={installed} setInstalled={setInstalled} findData={findData}></AppInstallSection>
+        <AppInstallSection installed={installed} setInstalled={setInstalled} findData={findData} setLocalData={setLocalData}></AppInstallSection>
         <Rechart findData={findData}></Rechart>
 
         <div className="mb-20">

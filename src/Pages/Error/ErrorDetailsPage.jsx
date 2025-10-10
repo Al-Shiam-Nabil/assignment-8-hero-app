@@ -1,8 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router';
 import errorAppsImage from "../../assets/App-Error.png"
-import Header from '../../Components/Header/Header';
-import Footer from '../../Components/Footer/Footer';
 import Container from '../../Components/Container/Container';
 
 const ErrorDetailsPage = () => {
