@@ -9,29 +9,30 @@ import ErrorDetailsPage from "./Error/ErrorDetailsPage";
 import { setLocalData } from "../Utilities/LocalStorage/LocalStorage";
 
 const AppDetails = () => {
-    const [installed,setInstalled]=useState(false)
+  const [installed, setInstalled] = useState(false);
   const { id } = useParams();
   const idNum = Number(id);
-  const { data,loading } = useLoadData();
+  const { data, loading } = useLoadData();
 
-  if(loading){
-    return <CardError></CardError>
+  if (loading) {
+    return <CardError></CardError>;
   }
 
   const findData = data.find((e) => e.id === idNum);
 
-
-    if(!findData){
-    return <ErrorDetailsPage></ErrorDetailsPage>
+  if (!findData) {
+    return <ErrorDetailsPage></ErrorDetailsPage>;
   }
-
-
-  
 
   return (
     <div>
       <Container>
-        <AppInstallSection installed={installed} setInstalled={setInstalled} findData={findData} setLocalData={setLocalData}></AppInstallSection>
+        <AppInstallSection
+          installed={installed}
+          setInstalled={setInstalled}
+          findData={findData}
+          setLocalData={setLocalData}
+        ></AppInstallSection>
         <Rechart findData={findData}></Rechart>
 
         <div className="mb-20">
@@ -44,4 +45,3 @@ const AppDetails = () => {
 };
 
 export default AppDetails;
-

@@ -7,7 +7,7 @@ import CardError from "./Error/CardError";
 import NoAppsFound from "./Error/NoAppsFound";
 
 const AllApps = () => {
-  const { data, loading } = useLoadData();
+  const { data, loading, setLoading } = useLoadData();
 
   const [inputField, setInputField] = useState("");
 
@@ -17,23 +17,34 @@ const AllApps = () => {
     ? data.filter((e) => e.title.trim().toLowerCase().includes(trim))
     : data;
 
+  const handleOnchangeSearch = (e) => {
+    setLoading(true);
+    setInputField(e.target.value);
+
+    setTimeout(() => {
+      setLoading(false);
+    }, 500);
+  };
+
   return (
     <Container>
       <div>
         <section className="text-center mt-20 mb-10 space-y-3">
-          <h2 className="text-3xl sm:text-4xl font-semibold">Our All Applications</h2>
+          <h2 className="text-3xl sm:text-4xl font-semibold">
+            Our All Applications
+          </h2>
           <p className="text-gray-500">
             Explore All Apps on the Market developed by us. We code for Millions
           </p>
         </section>
 
-        <section className="flex justify-between items-center mb-8">
+        <section className="flex flex-col-reverse gap-5 sm:flex-row justify-between items-center  mb-8">
           <h3 className="text-xl font-semibold">
             ({filteredData.length}) Apps Found
           </h3>
 
-          <div>
-            <label className="input">
+          <div className="w-full sm:w-auto">
+            <label className="input w-full">
               <svg
                 className="h-[1em] opacity-50"
                 xmlns="http://www.w3.org/2000/svg"
@@ -54,10 +65,11 @@ const AllApps = () => {
                 type="search"
                 name="search"
                 value={inputField}
-                onChange={(e) => setInputField(e.target.value)}
+                onChange={handleOnchangeSearch}
                 required
                 placeholder="Search Apps"
                 spellCheck="false"
+                className="w-full sm:w-auto"
               />
             </label>
           </div>

@@ -1,13 +1,9 @@
-import React from "react";
 import downloadIcon from "../../assets/icon-downloads.png";
 import ratingIcon from "../../assets/icon-ratings.png";
 import reviewIcon from "../../assets/icon-review.png";
-import CardError from "../../Pages/Error/CardError";
 
-import Swal from "sweetalert2";
-import withReactContent from "sweetalert2-react-content";
-
-const MySwal = withReactContent(Swal);
+import { InstalledContext } from "../../Layouts/Root/Root";
+import { useContext } from "react";
 
 const AppInstallSection = ({
   findData,
@@ -15,6 +11,8 @@ const AppInstallSection = ({
   setInstalled,
   setLocalData,
 }) => {
+  const [installedApp, setInstalledApp] = useContext(InstalledContext);
+
   if (!findData) {
     return null;
   }
@@ -23,8 +21,9 @@ const AppInstallSection = ({
 
   const handleInstall = (id) => {
     setInstalled(true);
-    MySwal.fire(`${title} - successfully installed.`);
+
     setLocalData(id);
+    setInstalledApp([...installedApp, id]);
   };
 
   return (

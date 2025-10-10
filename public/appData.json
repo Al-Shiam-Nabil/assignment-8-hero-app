@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://i.ibb.co.com/d4n2b3th/maik-winnecke-bqwi-Eesse4-U-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2020/04/19/15/15/smartphone-5064084_1280.jpg",
     "title": "SocialVerse",
     "companyName": "NovaTech Studios",
     "id": 101,
@@ -8,7 +8,7 @@
     "size": 125,
     "reviews": 15234,
     "ratingAvg": 4.4,
-    "downloads": "1.2M",
+    "downloads": 1200000,
     "ratings": [
       { "name": "1 star", "count": 820 },
       { "name": "2 star", "count": 960 },
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/MDc35G6h/martin-martz-Yo-Kss-ZBSpw-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/11/23/49/app-6702045_640.png",
     "title": "FitLife Tracker",
     "companyName": "HealthSync Inc.",
     "id": 102,
@@ -26,7 +26,7 @@
     "size": 98,
     "reviews": 8321,
     "ratingAvg": 4.6,
-    "downloads": "890K",
+    "downloads": 890000,
     "ratings": [
       { "name": "1 star", "count": 310 },
       { "name": "2 star", "count": 480 },
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/CKbj0DbX/andrei-castanha-Y6-Zt7-An-Bl-PY-unsplash-1.jpg",
+    "image": "https://cdn.pixabay.com/photo/2016/12/21/15/48/bitcoin-1923206_640.png",
     "title": "ShopGenie",
     "companyName": "UrbanSoft Ltd.",
     "id": 103,
@@ -44,7 +44,7 @@
     "size": 75,
     "reviews": 12678,
     "ratingAvg": 4.2,
-    "downloads": "2.3M",
+    "downloads": 2300000,
     "ratings": [
       { "name": "1 star", "count": 1400 },
       { "name": "2 star", "count": 1700 },
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/CKbj0DbX/andrei-castanha-Y6-Zt7-An-Bl-PY-unsplash-1.jpg",
+    "image": "https://cdn.pixabay.com/photo/2018/05/04/21/29/spotify-3375061_640.png",
     "title": "Gamester Hub",
     "companyName": "PixelStorm Games",
     "id": 104,
@@ -62,7 +62,7 @@
     "size": 142,
     "reviews": 6543,
     "ratingAvg": 4.8,
-    "downloads": "310K",
+    "downloads": 310000,
     "ratings": [
       { "name": "1 star", "count": 120 },
       { "name": "2 star", "count": 190 },
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/Pvndxztw/shubham-dhage-u-QWVNy-K3n-OU-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2022/06/01/03/40/app-7234739_640.png",
     "title": "LearnX Academy",
     "companyName": "EduSmart Technologies",
     "id": 105,
@@ -80,7 +80,7 @@
     "size": 180,
     "reviews": 11320,
     "ratingAvg": 4.7,
-    "downloads": "780K",
+    "downloads": 780000,
     "ratings": [
       { "name": "1 star", "count": 410 },
       { "name": "2 star", "count": 520 },
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/MkXHzPgW/silvio-kundt-p-OZGBVICx-Dc-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2022/06/08/03/45/talk-7249643_640.png",
     "title": "TravelMate",
     "companyName": "GlobeTrek Corp.",
     "id": 106,
@@ -98,7 +98,7 @@
     "size": 130,
     "reviews": 9345,
     "ratingAvg": 4.3,
-    "downloads": "1.5M",
+    "downloads": 1500000,
     "ratings": [
       { "name": "1 star", "count": 700 },
       { "name": "2 star", "count": 890 },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/xqMfT6dH/woliul-hasan-bs-NW8-WTPP3-M-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/09/08/00/57/applestore-6605189_640.png",
     "title": "SoundWave Player",
     "companyName": "AudioNova Labs",
     "id": 107,
@@ -116,7 +116,7 @@
     "size": 95,
     "reviews": 17423,
     "ratingAvg": 4.5,
-    "downloads": "5.6M",
+    "downloads": 5600000,
     "ratings": [
       { "name": "1 star", "count": 950 },
       { "name": "2 star", "count": 1300 },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/Lhz4gzW7/marcel-strauss-yn-Xy-ESA6-Fdg-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2020/07/03/14/31/mobile-phone-5366505_640.jpg",
     "title": "TaskHero",
     "companyName": "NextStep Apps",
     "id": 108,
@@ -134,7 +134,7 @@
     "size": 70,
     "reviews": 6420,
     "ratingAvg": 4.6,
-    "downloads": "950K",
+    "downloads": 950000,
     "ratings": [
       { "name": "1 star", "count": 300 },
       { "name": "2 star", "count": 440 },
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/yccHxCFv/alexander-shatov-Cys3-W7-MXDU-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/03/20/05/44/social-6109174_640.jpg",
     "title": "Foodify",
     "companyName": "MealBox Digital",
     "id": 109,
@@ -152,7 +152,7 @@
     "size": 110,
     "reviews": 20156,
     "ratingAvg": 4.1,
-    "downloads": "4.3M",
+    "downloads": 4300000,
     "ratings": [
       { "name": "1 star", "count": 2300 },
       { "name": "2 star", "count": 2600 },
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/b56mPLSm/mariia-shalabaieva-V02us-4r-NE8-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2018/02/20/17/40/line-graph-3168291_640.png",
     "title": "MediCare Online",
     "companyName": "HealthBridge Pvt. Ltd.",
     "id": 110,
@@ -170,7 +170,7 @@
     "size": 165,
     "reviews": 9870,
     "ratingAvg": 4.5,
-    "downloads": "1.2M",
+    "downloads": 1200000,
     "ratings": [
       { "name": "1 star", "count": 540 },
       { "name": "2 star", "count": 700 },
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/39mrC317/mariia-shalabaieva-Jk-Zg8c61-Bo-U-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2018/11/13/22/01/instagram-3814080_640.png",
     "title": "FinTrack",
     "companyName": "MoneySmart Labs",
     "id": 111,
@@ -188,7 +188,7 @@
     "size": 88,
     "reviews": 7560,
     "ratingAvg": 4.7,
-    "downloads": "980K",
+    "downloads": 980000,
     "ratings": [
       { "name": "1 star", "count": 250 },
       { "name": "2 star", "count": 310 },
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/vxKvNTbp/eyestetix-studio-p-Zud-Vp-chc-Y-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2018/01/02/08/11/block-chain-3055701_640.jpg",
     "title": "ChatPlus Messenger",
     "companyName": "Talkify Corp.",
     "id": 112,
@@ -206,7 +206,7 @@
     "size": 115,
     "reviews": 24890,
     "ratingAvg": 4.3,
-    "downloads": "7.6M",
+    "downloads": 7600000,
     "ratings": [
       { "name": "1 star", "count": 1900 },
       { "name": "2 star", "count": 2300 },
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/m52MDWry/mariia-shalabaieva-Kt-TRm-Zh-PRjs-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2017/10/05/14/43/register-2819608_640.jpg",
     "title": "Weatherly Pro",
     "companyName": "SkyCast Systems",
     "id": 113,
@@ -224,7 +224,7 @@
     "size": 90,
     "reviews": 6210,
     "ratingAvg": 4.4,
-    "downloads": "2.1M",
+    "downloads": 2100000,
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 510 },
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/6cWjPFFM/dima-solomin-mr26t-Qg-HGmc-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2017/03/24/07/28/whatsapp-2170427_640.png",
     "title": "Readify",
     "companyName": "BookVerse Inc.",
     "id": 114,
@@ -242,7 +242,7 @@
     "size": 120,
     "reviews": 8740,
     "ratingAvg": 4.8,
-    "downloads": "3.4M",
+    "downloads": 3400000,
     "ratings": [
       { "name": "1 star", "count": 310 },
       { "name": "2 star", "count": 450 },
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/qY6YgP5h/ilgmyzin-9q-LYZ-y25pg-unsplash.jpg",
+    "image": "https://cdn.pixabay.com/photo/2016/12/04/18/57/instagram-1882324_640.png",
     "title": "CookMate Recipes",
     "companyName": "TastyLab Studios",
     "id": 115,
@@ -260,7 +260,7 @@
     "size": 105,
     "reviews": 7350,
     "ratingAvg": 4.6,
-    "downloads": "1.5M",
+    "downloads": 1500000,
     "ratings": [
       { "name": "1 star", "count": 380 },
       { "name": "2 star", "count": 520 },
